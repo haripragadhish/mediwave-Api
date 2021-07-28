@@ -1,5 +1,4 @@
 # mediwave
-Interview
 
 npm install 
 
